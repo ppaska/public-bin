@@ -136,6 +136,9 @@ MIT
 @angular/router
 MIT
 
+@jspython-dev/jspython
+MIT
+
 @ng-select/ng-select
 MIT
 
@@ -159,9 +162,6 @@ MIT
 
 @ngx-dynamic-components/material
 MIT
-
-JSPython
-ISC
 
 ace-builds
 BSD-3-Clause
@@ -491,6 +491,9 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 custom-event
+MIT
+
+datapipe-js
 MIT
 
 dragula
@@ -1409,9 +1412,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-p-utils
-ISC
-
 pako
 (MIT AND Zlib)
 (The MIT License)
@@ -1485,9 +1485,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-pscript-interpreter
-ISC
 
 resize-observer-polyfill
 MIT
