@@ -616,6 +616,9 @@ SOFTWARE.
 [others]: https://github.com/json5/json5/contributors
 
 
+jspython-interpreter
+MIT
+
 jszip
 (MIT OR GPL-3.0)
 JSZip is dual licensed. You may use it under the MIT license *or* the GPLv3
