@@ -289,6 +289,9 @@ Commercial
 @grapecity/wijmo.angular2.chart.animation
 Commercial
 
+@grapecity/wijmo.angular2.chart.interaction
+Commercial
+
 @grapecity/wijmo.angular2.directivebase
 Commercial
 
@@ -301,10 +304,16 @@ Commercial
 @grapecity/wijmo.angular2.input
 Commercial
 
+@grapecity/wijmo.angular2.nav
+Commercial
+
 @grapecity/wijmo.chart
 Commercial
 
 @grapecity/wijmo.chart.animation
+Commercial
+
+@grapecity/wijmo.chart.interaction
 Commercial
 
 @grapecity/wijmo.grid
@@ -320,6 +329,9 @@ Commercial
 Commercial
 
 @grapecity/wijmo.interop.grid
+Commercial
+
+@grapecity/wijmo.nav
 Commercial
 
 @grapecity/wijmo.xlsx
